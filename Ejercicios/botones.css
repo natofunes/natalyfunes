@@ -5,17 +5,14 @@
     box-sizing: border-box;
 }*/
 
-div {
-    border: 5px dashed red;
-    margin: 20px;
-    padding: 20px;
-
+.title-1,h1 {
+    color: white; 
+    margin: 20px;     
 }
-
 .rectangulo, .circulo {
     width: 100px;
     height: 100px;
     background: cyan;
-    border: 2px solid blue;
-    border-radius: 10px;
+
+
 }
