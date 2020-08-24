@@ -1,0 +1,19 @@
+/** {
+    margin: 20px;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
+}*/
+
+div {
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.rectangulo, .circulo {
+    width: 100px;
+    height: 100px;
+    background: cyan;
+    border: 2px solid blue;
+    border-radius: 10px;
